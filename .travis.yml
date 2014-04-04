@@ -1,0 +1,4 @@
+addons:
+  code_climate:
+    repo_token:
+      secure: 932d6a9695c9d94394b22f7de7e6f9f6261cc11c28f23718316396ea017a92db
